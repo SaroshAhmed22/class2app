@@ -6,6 +6,7 @@ function App() {
   return (
     <div>
       <h1>Assalam o Alikum every one I am Sarosh Ahmed and this is my First Recat app </h1>
+      <h1>Assalam o Alikum every one I am Sarosh Ahmed and this is my First Recat app </h1>
 
     </div>
   );
